@@ -1,0 +1,1874 @@
+#/usr/bin/env bash
+set -x
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 415.305 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.002
+sleep 0.002
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.002
+beep -f 415.305
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 415.305 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 369.994 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.002
+beep -f 415.305
+beep -f 369.994
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 415.305 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.002
+beep -f 415.305
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 415.305
+sleep 0.002
+beep -f 369.994
+sleep 0.002
+beep -f 415.305
+sleep 0.002
+beep -f 369.994
+sleep 0.002
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.006
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 554.365
+sleep 0.04
+sleep 0.016
+beep -f 466.164
+sleep 0.01
+beep -f 311.127
+sleep 0.01
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.002
+sleep 0.002
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 293.665
+sleep 0.004
+beep -f 349.228
+sleep 0.04
+beep -f 622.254
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.022
+beep -f 466.164
+sleep 0.01
+beep -f 311.127
+sleep 0.01
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+sleep 0.002
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.006
+sleep 0.004
+beep -f 369.994
+sleep 0.01
+beep -f 415.305
+sleep 0.01
+beep -f 466.164
+sleep 0.01
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+sleep 0.024
+beep -f 622.254
+sleep 0.004
+beep -f 554.365
+sleep 0.02
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.004
+beep -f 349.228 &
+beep -f 415.305 &
+wait
+sleep 0.004
+beep -f 311.127 &
+beep -f 466.164 &
+wait
+sleep 0.01
+beep -f 369.994
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 369.994 &
+beep -f 466.164 &
+wait
+sleep 0.01
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.022
+beep -f 466.164
+sleep 0.014
+sleep 0.048
+beep -f 233.082
+sleep 0.002
+sleep 0.008
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.008
+beep -f 466.164
+sleep 0.042
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 293.665
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.004
+beep -f 349.228 &
+beep -f 415.305 &
+wait
+sleep 0.004
+beep -f 311.127 &
+beep -f 466.164 &
+wait
+sleep 0.002
+sleep 0.036000000000000004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.002
+sleep 0.008
+beep -f 622.254 &
+beep -f 369.994 &
+wait
+sleep 0.004
+beep -f 554.365 &
+beep -f 466.164 &
+wait
+sleep 0.036000000000000004
+sleep 0.008
+beep -f 369.994
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 369.994
+sleep 0.01
+beep -f 311.127
+sleep 0.01
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.02
+beep -f 466.164
+sleep 0.022
+beep -f 466.164
+sleep 0.006
+sleep 0.032
+beep -f 233.082
+sleep 0.018000000000000002
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.01
+beep -f 369.994
+sleep 0.01
+beep -f 415.305
+sleep 0.01
+beep -f 466.164
+sleep 0.002
+sleep 0.008
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.036000000000000004
+sleep 0.02
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.04
+sleep 0.016
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.01
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.002
+sleep 0.038
+beep -f 554.365
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.002
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 311.127
+sleep 0.01
+beep -f 466.164
+sleep 0.018000000000000002
+sleep 0.04
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.016
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.002
+sleep 0.002
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.01
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.022
+beep -f 554.365
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.016
+sleep 0.004
+beep -f 311.127
+sleep 0.01
+beep -f 466.164
+sleep 0.022
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+sleep 0.024
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.02
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.016
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.002
+sleep 0.008
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.006
+sleep 0.004
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+beep -f 311.127
+sleep 0.01
+sleep 0.006
+beep -f 554.365
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.032
+beep -f 466.164
+sleep 0.022
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.002
+sleep 0.008
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.028
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.002
+beep -f 466.164
+sleep 0.016
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.018000000000000002
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 554.365
+sleep 0.028
+sleep 0.028
+beep -f 466.164
+sleep 0.01
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.004
+sleep 0.042
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.002
+sleep 0.036000000000000004
+beep -f 932.328
+sleep 0.014
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.004
+beep -f 349.228
+sleep 0.004
+beep -f 277.183
+sleep 0.004
+beep -f 311.127
+sleep 0.026000000000000002
+sleep 0.002
+beep -f 1244.508
+sleep 0.04
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.008
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.012
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.002
+sleep 0.026000000000000002
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.012
+sleep 0.002
+beep -f 932.328
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 932.328
+sleep 0.022
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.028
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.016
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.002
+sleep 0.008
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 622.254
+sleep 0.006
+sleep 0.01
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.028
+sleep 0.004
+beep -f 932.328
+sleep 0.022
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+sleep 0.012
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.032
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.002
+sleep 0.002
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.046
+beep -f 1108.731
+sleep 0.004
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 932.328
+sleep 0.01
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.04
+beep -f 1108.731
+sleep 0.002
+sleep 0.012
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.008
+sleep 0.002
+beep -f 1244.508
+sleep 0.028
+beep -f 1244.508
+sleep 0.004
+beep -f 1396.913
+sleep 0.004
+beep -f 1479.978
+sleep 0.004
+beep -f 1396.913
+sleep 0.008
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.03
+sleep 0.004
+beep -f 1244.508
+sleep 0.004
+beep -f 1108.731
+sleep 0.04
+sleep 0.016
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.038
+sleep 0.036000000000000004
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 369.994
+beep -f 415.305 &
+beep -f 311.127 &
+wait
+sleep 0.004
+beep -f 369.994 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 415.305
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 415.305
+sleep 0.002
+sleep 0.002
+beep -f 369.994 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 415.305
+beep -f 369.994 &
+beep -f 311.127 &
+wait
+sleep 0.004
+beep -f 311.127 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 369.994
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 311.127 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183 &
+beep -f 293.665 &
+wait
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127 &
+beep -f 369.994 &
+wait
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 369.994
+beep -f 415.305
+sleep 0.004
+beep -f 369.994
+sleep 0.002
+beep -f 415.305
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+sleep 0.04
+beep -f 554.365
+sleep 0.002
+beep -f 622.254
+sleep 0.002
+beep -f 739.911
+sleep 0.002
+beep -f 311.127 &
+beep -f 932.328 &
+wait
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+sleep 0.002
+beep -f 311.127
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 293.665
+beep -f 415.305
+sleep 0.002
+beep -f 466.164
+sleep 0.014
+beep -f 932.328
+sleep 0.002
+beep -f 830.609
+sleep 0.034
+beep -f 932.328
+sleep 0.002
+beep -f 830.609
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.002
+beep -f 739.911
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.002
+beep -f 698.456
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.002
+beep -f 622.254
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.014
+sleep 0.048
+beep -f 466.164
+sleep 0.002
+sleep 0.008
+beep -f 554.365
+sleep 0.042
+sleep 0.014
+beep -f 466.164
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 440
+sleep 0.004
+beep -f 415.305
+sleep 0.01
+beep -f 369.994
+sleep 0.006
+sleep 0.04
+beep -f 1108.731
+sleep 0.01
+sleep 0.016
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+sleep 0.004
+beep -f 415.305
+sleep 0.004
+beep -f 466.164
+sleep 0.04
+sleep 0.006
+beep -f 1244.508
+sleep 0.01
+beep -f 1244.508
+sleep 0.01
+beep -f 1479.978
+sleep 0.016
+beep -f 1396.913
+sleep 0.002
+beep -f 932.328
+sleep 0.05
+sleep 0.002
+beep -f 1396.913
+sleep 0.004
+beep -f 1396.913
+sleep 0.004
+beep -f 1479.978
+sleep 0.004
+beep -f 1396.913
+sleep 0.004
+beep -f 1244.508
+sleep 0.004
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.012
+sleep 0.042
+beep -f 932.328
+beep -f 932.328
+sleep 0.006
+sleep 0.002
+beep -f 1108.731
+sleep 0.034
+beep -f 1108.731
+sleep 0.012
+sleep 0.014
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+beep -f 932.328 &
+beep -f 932.328 &
+wait
+beep -f 830.609
+beep -f 830.609
+sleep 0.002
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.016
+beep -f 739.911
+beep -f 698.456
+beep -f 622.254
+beep -f 698.456
+sleep 0.004
+beep -f 987.767
+beep -f 932.328
+sleep 0.024
+beep -f 349.228
+beep -f 311.127
+beep -f 277.183
+beep -f 311.127
+sleep 0.02
+sleep 0.008
+beep -f 1244.508
+beep -f 1108.731
+sleep 0.002
+beep -f 1108.731
+sleep 0.036000000000000004
+beep -f 830.609
+beep -f 932.328
+sleep 0.008
+beep -f 987.767
+sleep 0.006
+beep -f 987.767
+beep -f 932.328
+beep -f 830.609
+beep -f 932.328
+sleep 0.004
+beep -f 739.911
+beep -f 698.456
+beep -f 622.254
+beep -f 698.456
+sleep 0.012
+sleep 0.044
+beep -f 369.994
+beep -f 349.228
+beep -f 311.127
+beep -f 349.228
+sleep 0.022
+beep -f 554.365
+sleep 0.002
+beep -f 554.365
+sleep 0.018000000000000002
+beep -f 554.365
+sleep 0.002
+beep -f 554.365
+sleep 0.004
+beep -f 311.127
+beep -f 277.183
+sleep 0.002
+beep -f 277.183
+sleep 0.004
+beep -f 466.164
+sleep 0.002
+beep -f 466.164
+sleep 0.006
+beep -f 493.883
+sleep 0.002
+beep -f 493.883
+beep -f 466.164
+sleep 0.002
+beep -f 466.164
+beep -f 493.883
+sleep 0.002
+beep -f 493.883
+sleep 0.006
+sleep 0.008
+beep -f 246.942
+sleep 0.042
+beep -f 622.254
+sleep 0.002
+beep -f 622.254
+beep -f 698.456
+sleep 0.004
+beep -f 830.609
+sleep 0.01
+beep -f 739.911
+sleep 0.016
+beep -f 698.456
+sleep 0.008
+sleep 0.002
+beep -f 830.609
+sleep 0.01
+beep -f 739.911
+sleep 0.004
+beep -f 698.456 &
+beep -f 830.609 &
+wait
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911 &
+beep -f 830.609 &
+wait
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 830.609 &
+beep -f 830.609 &
+wait
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.002
+beep -f 830.609
+sleep 0.002
+beep -f 739.911
+sleep 0.002
+beep -f 698.456
+sleep 0.002
+beep -f 830.609
+sleep 0.002
+beep -f 739.911
+sleep 0.002
+beep -f 698.456
+sleep 0.002
+beep -f 830.609
+sleep 0.002
+beep -f 739.911
+sleep 0.002
+beep -f 698.456
+sleep 0.002
+beep -f 830.609
+sleep 0.002
+beep -f 739.911
+sleep 0.002
+sleep 0.014
+beep -f 1108.731
+sleep 0.008
+beep -f 1244.508
+sleep 0.01
+beep -f 1396.913
+sleep 0.01
+beep -f 1479.978
+sleep 0.002
+beep -f 932.328
+sleep 0.01
+beep -f 932.328
+sleep 0.038
+sleep 0.002
+beep -f 1396.913
+sleep 0.004
+beep -f 1396.913
+sleep 0.01
+beep -f 1244.508
+sleep 0.01
+beep -f 1108.731
+sleep 0.01
+beep -f 1108.731
+sleep 0.002
+beep -f 1174.659
+beep -f 1244.508
+sleep 0.04
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.004
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.002
+sleep 0.002
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.022
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.016
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 932.328
+sleep 0.022
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+sleep 0.024
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.02
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.016
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.002
+sleep 0.008
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.006
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+sleep 0.006
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.032
+beep -f 932.328
+sleep 0.022
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.002
+sleep 0.008
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.036000000000000004
+sleep 0.002
+beep -f 932.328
+sleep 0.016
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.004
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.004
+sleep 0.042
+beep -f 1108.731
+sleep 0.004
+beep -f 1108.731
+sleep 0.002
+beep -f 698.456
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 932.328
+sleep 0.014
+sleep 0.002
+beep -f 1244.508
+sleep 0.04
+beep -f 1108.731
+sleep 0.004
+beep -f 1244.508
+sleep 0.008
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.012
+sleep 0.028
+beep -f 1244.508
+sleep 0.004
+beep -f 1396.913
+sleep 0.004
+beep -f 1479.978
+sleep 0.004
+beep -f 1396.913
+sleep 0.004
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.034
+beep -f 1244.508
+sleep 0.004
+beep -f 1108.731
+sleep 0.044
+sleep 0.012
+beep -f 932.328
+sleep 0.01
+beep -f 830.609
+sleep 0.004
+beep -f 932.328
+sleep 0.004
+beep -f 830.609
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 698.456
+sleep 0.002
+sleep 0.026000000000000002
+beep -f 1174.659
+sleep 0.004
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.012
+sleep 0.002
+beep -f 554.365
+sleep 0.004
+beep -f 622.254
+sleep 0.01
+beep -f 987.767
+sleep 0.022
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.028
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.016
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.016
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.002
+sleep 0.008
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 659.255
+sleep 0.006
+sleep 0.01
+beep -f 1174.659
+sleep 0.004
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.028
+sleep 0.004
+beep -f 987.767
+sleep 0.022
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+sleep 0.012
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.032
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.016
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.002
+sleep 0.002
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.01
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.046
+beep -f 1174.659
+sleep 0.004
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 659.255
+sleep 0.01
+beep -f 987.767
+sleep 0.01
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.04
+beep -f 1174.659
+sleep 0.002
+sleep 0.012
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.008
+sleep 0.002
+beep -f 1318.51
+sleep 0.048
+sleep 0.008
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.01
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+sleep 0.03
+beep -f 1174.659
+sleep 0.004
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.008
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 659.255
+sleep 0.01
+beep -f 987.767
+sleep 0.022
+beep -f 987.767
+sleep 0.002
+sleep 0.032
+beep -f 1174.659
+sleep 0.004
+beep -f 1318.51
+sleep 0.012
+sleep 0.002
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.016
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.016
+beep -f 1318.51
+sleep 0.004
+beep -f 1479.978
+sleep 0.004
+beep -f 1567.982
+sleep 0.004
+beep -f 1479.978
+sleep 0.004
+beep -f 1318.51
+sleep 0.004
+beep -f 1174.659
+sleep 0.004
+sleep 0.004
+beep -f 987.767
+sleep 0.046
+beep -f 987.767
+sleep 0.01
+beep -f 880
+sleep 0.004
+beep -f 987.767
+sleep 0.004
+beep -f 880
+sleep 0.004
+beep -f 783.991
+sleep 0.004
+beep -f 739.911
+sleep 0.004
+beep -f 587.33
+sleep 0.004
+beep -f 659.255
+sleep 0.002
