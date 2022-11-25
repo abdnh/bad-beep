@@ -1,13 +1,11 @@
+from __future__ import annotations
 import sys
+from itertools import zip_longest
+from typing import Iterable
 
 # Parse the music notes in https://pianoletternotes.blogspot.com/2018/03/bad-apple-teppei-okada.html
 # and convert them to frequencies using https://www.liutaiomottola.com/formulae/freqtab.htm
 # Then output `beep` commands to the input file
-
-"""
-TODO:
-- play vertical notes on the same column together
-"""
 
 music_notes = """\
 4|D--D-D--DC-dD--D-D--DC-dD-|
@@ -301,24 +299,62 @@ dash_delay = 1 / 500
 outfile = open(sys.argv[1], "wb") if len(sys.argv) > 1 else open("bad-beep", "wb")
 
 
+def parse_line(line: str | None) -> tuple[str, str]:
+    if not line:
+        return "", ""
+    octave = int(line[0])
+    rest = line[2:-1]
+    return octave, rest
+
+
+def groups_of_n(iterable: Iterable, n: int) -> Iterable:
+    return zip_longest(*[iter(iterable)] * n)
+
+
 def notes_to_beeps():
     outfile.write(b"#/usr/bin/env bash\n")
     outfile.write(b"set -x\n")
-    for line in music_notes.splitlines():
-        if not line.strip():
+    lines = music_notes.splitlines()
+    for line1, line2 in groups_of_n(lines, 2):
+        if not line1.strip():
             continue
-        octave = int(line[0])
-        rest = line[2:-1]
+        octave1, rest1 = parse_line(line1)
+        octave2, rest2 = parse_line(line2)
+
         i = 0
-        while i < len(rest):
+        while i < len(rest1):
             dash_n = 0
-            while i < len(rest) and rest[i] == "-":
+            while i < len(rest1) and rest1[i] == "-":
                 dash_n += 1
                 i += 1
             if dash_delay and dash_n:
                 outfile.write(bytes(f"sleep {dash_n * dash_delay}\n", encoding="utf-8"))
-            elif i < len(rest):
-                freq = conversion_table[octave][rest[i]]
+            if i < len(rest2) and rest2[i] != "-":
+                # Try to play letters on the same column together. Not sure if this is working properly
+                freq1 = conversion_table[octave1][rest1[i]]
+                freq2 = conversion_table[octave2][rest2[i]]
+                outfile.write(
+                    bytes(
+                        f"beep -f {freq1} &\nbeep -f {freq2} &\nwait\n",
+                        encoding="utf-8",
+                    )
+                )
+                i += 1
+            elif i < len(rest1):
+                freq = conversion_table[octave1][rest1[i]]
+                outfile.write(bytes(f"beep -f {freq}\n", encoding="utf-8"))
+                i += 1
+
+        i = 0
+        while i < len(rest2):
+            dash_n = 0
+            while i < len(rest2) and rest2[i] == "-":
+                dash_n += 1
+                i += 1
+            if dash_delay and dash_n:
+                outfile.write(bytes(f"sleep {dash_n * dash_delay}\n", encoding="utf-8"))
+            elif i < len(rest2) and (len(rest1) >= i or rest1[i] == "-"):
+                freq = conversion_table[octave2][rest2[i]]
                 outfile.write(bytes(f"beep -f {freq}\n", encoding="utf-8"))
                 i += 1
 
